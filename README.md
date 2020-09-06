@@ -1,6 +1,6 @@
 ### Hi there, I'm Chengsheng 👋 
-* 🌱 I'm currently a graudate student in Boston Univesity and will be graduate in December. 
-
+* 🌱 I am currently a graduate student in statistics major at Boston University and will graduate in December this year. 
+* 💼 Find me On [LinkedIn](www.linkedin.com/in/ChengshengDeng) 
 <!--
 **ChengshengDeng/ChengshengDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
