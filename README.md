@@ -1,7 +1,8 @@
 ### Hi there, I'm Chengsheng 👋 
-* 🌱  I am currently a graduate student in statistics major at Boston University and will graduate in December this year. I love anything about data and Python is         my first language. I am also good at R, Tableau,and MySQL. I am open to learn everything.   
-* 💼  Find me On li.png [LinkedIn](www.linkedin.com/in/ChengshengDeng) 
-* 📫  Reach me: ::Email:: dylanden@bu.edu / tw.png
+* 🌱  I am currently a graduate student in statistics major at Boston University and will graduate in December this year. I love anything about data and Python is         my first language. I am also good at R, Tableau,and MySQL. I am open to learn everything. 
+ ### Where to find me 
+  * ::+1::[LinkedIn](www.linkedin.com/in/ChengshengDeng) 
+  * ::fire::[Email](dylanden@bu.edu)
 <!--
 **ChengshengDeng/ChengshengDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
