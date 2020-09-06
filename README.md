@@ -5,7 +5,7 @@
   * :e-mail:  [![Gmail Badge](https://img.shields.io/badge/-dylanden@bu.edu-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dylanden@bu.edu)](mailto:dylanden@bu.edu) 
   * :+1:  [Website](https://dengchengsheng.netlify.com/) 
   ### Hobbies 
-  *  :basketball:(I am a diehard Lakers fan and my favorite player is Kobe Bryant with no doubt. R.I.P Kobe :disappointed:) 
+  *  :basketball: (I am a diehard Lakers fan and my favorite player is Kobe Bryant with no doubt. R.I.P Kobe :disappointed: ) 
 <!--
 **ChengshengDeng/ChengshengDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
