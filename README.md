@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Chengsheng 👋 
+* 🌱 I'm currently a graudate student in Boston Univesity and will be graduate in December. 
 
 <!--
 **ChengshengDeng/ChengshengDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
