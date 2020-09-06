@@ -6,6 +6,8 @@
   * :+1:  [Website](https://dengchengsheng.netlify.com/) 
   ### Hobbies 
   *  :basketball: (I am a diehard Lakers fan and my favorite player is Kobe Bryant with no doubt. R.I.P Kobe :disappointed: ) 
+  *  :computer: Play Video Game 
+  *  :camera: Follow me on Twitter: [![Twitter](https://img.shields.io/badge/@KingDylanDeng-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/KingDylanDeng) 
 <!--
 **ChengshengDeng/ChengshengDeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
